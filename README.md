@@ -43,6 +43,4 @@ A cross-platform tool to detect and alert on Man in the Middle (MITM) attacks us
 
 Feel free to contribute by opening issues or submitting pull requests.
 
-## License
 
-This project is licensed under the MIT License.
